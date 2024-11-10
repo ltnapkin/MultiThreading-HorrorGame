@@ -250,7 +250,7 @@ int MonsterNumberChoice(){
 
 	// The monster has a 25% chance to get you.
 	monstersChoice = rand() % 4;
-	cout << monstersChoice << endl;
+	
 
 
 	return 0;
